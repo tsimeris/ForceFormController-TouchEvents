@@ -1,5 +1,5 @@
 # ForceFormController-TouchEvents
-This repository contains what can be considered as a user interface and control mechanism for ForceForm, a prototype shape changing interface developed at the Australian National University. http://tsimeris.com/itspaper.pdf 
+This repository contains what can be considered a control mechanism for ForceForm, a prototype shape changing interface developed at the Australian National University. http://tsimeris.com/itspaper.pdf 
 
 This repository contains what can be considered as a stripped down version of a user interface and control mechanism for ForceForm, a prototype shape changing interface developed at the Australian National University. http://tsimeris.com/itspaper.pdf. 
 
