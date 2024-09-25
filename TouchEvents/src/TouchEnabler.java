@@ -9,5 +9,7 @@ public class TouchEnabler
     
     HallEffectGUI heg = new HallEffectGUI();
     heg.init();
+
+    System.out.println("hello world");
   }
 }
